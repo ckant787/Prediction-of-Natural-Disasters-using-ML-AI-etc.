@@ -31,3 +31,5 @@ During a disaster, ML and AI, when combined, can help responders:
 - send location-based and timely safety information; and
 
 - locate victims to coordinate their rescue.
+
+Natural disasters show that how powerful Mother Nature is. Anything created by humanity is destructible in nature and can be destroyed by nature within seconds. In short, natural disasters are inevitable and no matter how hard we try, we cannot stop them. However, we can take help from technology to avert the destruction caused by them. AI and ML can be used together to save lives and property. But can we completely rely on these technologies? The answer is yet to be discovered.
