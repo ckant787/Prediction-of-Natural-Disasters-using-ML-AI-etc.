@@ -1,6 +1,5 @@
 # Prediction-of-Natural-Disasters-using-ML-AI-etc.
-Good predictions and warnings save lives. We will build a solution to help cities better predict and prepare for natural disasters.
-Artificial Intelligence and machine learning can help predict and respond to large-scale disasters like earthquake, flood and landslides. Together, they can turn into a life-saving tool during emergency and support disaster management efforts. Robots, sensors and drones based on AI and machine learning can become a relevant prototype providing accurate information during a catastrophe. In fact, several relief agencies and governments  can also use these smart analytics tools to deal with adverse situations and coordinate efficiently during disaster relief program.
+
 
 Here we will use the knowledge of Machine Learning by first training the model using various features like for example-In Earthquake
 its main feature by which we can determine where and by how much intensity it will occur is seismic waves.It occurs due to sudden release of 
@@ -11,7 +10,7 @@ AI based warning system can drastically improve the way we predict earthquakes. 
 
 Furthermore, we can update our system with relevant data about traffic in the quake-zone area, total number of ambulances, hospitals, fire departments etc. Eventually, the computer will give information about the danger zone in advance and the number of casualties we can expect in that area. Computers will also provide theories and models with the help of machine learning technology. It uses algorithm to define the pattern and possibility of earthquakes and regularly comes up with new models.Since, the communication system is completely disrupted during a disaster as a result, it becomes a challenging task to send help to the needy at right time. Here, AI based sensors can be used to help locate the victims.
 
-SE Asia is currently facing the wrath of climate change with regular flooding and water crisis. Citizens can use hashtags on Twitter related to flooding or water crisis and these tweets would be then indexed on IFIS. Similarly, we can use drones to determine the elevation and the possibility of landslides can be detected in advance.With the help of larger-scale behavior and movement data, we can use predictive machine learning models to help officials distribute supplies to victims at the accurate place. Though predictive programming is still at nascent stage but it offers a promising future for disaster relief.
+
 
 The aim of one concern is to aid emergency operation centers by providing resources required during rescue operations. They plan modules for training purposes by replicating lifelike disasters. This way they can train rescuers to perform well during operations. They are using tools based on Artificial Intelligence and machine learning to map the area, allowing people to remain alert and prepared in case of natural disasters.
 
@@ -32,4 +31,4 @@ During a disaster, ML and AI, when combined, can help responders:
 
 - locate victims to coordinate their rescue.
 
-Natural disasters show that how powerful Mother Nature is. Anything created by humanity is destructible in nature and can be destroyed by nature within seconds. In short, natural disasters are inevitable and no matter how hard we try, we cannot stop them. However, we can take help from technology to avert the destruction caused by them. AI and ML can be used together to save lives and property. But can we completely rely on these technologies? The answer is yet to be discovered.
+
