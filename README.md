@@ -1,7 +1,7 @@
 # Prediction-of-Natural-Disasters-using-ML-AI-etc.
 
 
-Here we will use the knowledge of Machine Learning by first training the model using various features like for example-In Earthquake
+Here we will use the knowledge of Machine Learning by first training the model using the various features like for example-In Earthquake
 its main feature by which we can determine where and by how much intensity it will occur is seismic waves.It occurs due to sudden release of 
 energy in the Earth's Lithosphere.So we will gather data of this energy from previous years and train our model and can use it to predict where the
 next earthquake will occur.
@@ -14,7 +14,7 @@ Furthermore, we can update our system with relevant data about traffic in the qu
 
 The aim of one concern is to aid emergency operation centers by providing resources required during rescue operations. They plan modules for training purposes by replicating lifelike disasters. This way they can train rescuers to perform well during operations. They are using tools based on Artificial Intelligence and machine learning to map the area, allowing people to remain alert and prepared in case of natural disasters.
 
-During a disaster, ML and AI, when combined, can help responders:
+During a disaster, ML and AI, when combined together, can help responders:
 - track and predict disaster trajectory;
 
 - identify location-based urgent needs and most impacted regions;
