@@ -21,7 +21,7 @@ During a disaster, ML and AI, when combined together, can help responders:
 
 - gain predictive insight into what resources need to be allocated first and where; 
 
-- gather and uncover trends in user-generated social-media reports of needs, impact, death tolls, and missing persons;
+- gather and uncover the trends in user-generated social-media reports of needs, impact, death tolls, and missing persons;
 
 - send life-saving aid to most impacted or at risk regions;
 
