@@ -11,7 +11,7 @@ Furthermore, we can update our system with relevant data about traffic in the qu
 
 
 
-The aim of one concern is to aid emergency operation centers by providing resources required during rescue operations. They plan modules for training purposes by replicating lifelike disasters. This way they can train rescuers to perform well during operations. They are using tools based on Artificial Intelligence and machine learning to map the area, allowing people to remain alert and prepared in case of natural disasters.
+The aim of one concernn is to aid emergency operation centers by providing resources required during rescue operations. They plan modules for training purposes by replicating lifelike disasters. This way they can train rescuers to perform well during operations. They are using tools based on Artificial Intelligence and machine learning to map the area, allowing people to remain alert and prepared in case of natural disasters.
 
 During a disaster, ML and AI, when combined together, can help responders:
 - track and predict disaster trajectory;
