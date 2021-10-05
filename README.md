@@ -1,8 +1,7 @@
 # Prediction-of-Natural-Disasters-using-ML-AI-etc.
 
 
-Here we will use the knowledge of Machine Learning by first training the model using the various features like for example-In Earthquake
-its main feature by which we can determine where and by how much intensity it will occur is seismic waves.It occurs due to sudden release of 
+Here we will use the knowledge of Machine Learning by first training the model using the various features like for example-In Earthquake, its main feature by which we can determine where and by how much intensity it will occur is seismic waves.It occurs due to sudden release of 
 energy in the Earth's Lithosphere.So we will gather data of this energy from previous years and train our model and can use it to predict where the
 next earthquake will occur.
 
